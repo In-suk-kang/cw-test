@@ -1,3 +1,4 @@
 first_memo
 I go bed
 append memo
+I want to sleep
